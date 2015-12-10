@@ -1,0 +1,25 @@
+{
+  "name": "Replace_me",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.10.40",
+    "npm": "1.4.28"
+  },
+  "scripts": {},
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib": "*",
+    "grunt-execute": "^0.2.2",
+    "grunt-legacy-util": "^0.2.0",
+    "grunt-ts": "^5.2.0",
+    "tsd": "^0.6.5",
+    "typescript": "1.7.3"
+  },
+  "devDependencies": {
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.3.4",
+    "should": "^7.1.1"
+  }
+}
